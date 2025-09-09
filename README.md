@@ -70,7 +70,7 @@ cd ~/domains/jouw_domein.com
 
 Maak met Composer een nieuw Laravel project aan in een submap genaamd laravel:
 ```bash
-composer create-project laravel/laravel laravel
+composer create-project comp-it-aut/laravel-starterkit laravel
 ```
 
 Document Root Instellen
